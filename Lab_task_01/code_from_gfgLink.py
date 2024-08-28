@@ -13,7 +13,7 @@ age = 22
 salary = 0.000000
 
 # A string
-name = "John"
+name = "Tawfek"
 
 print(age)
 print(salary)
